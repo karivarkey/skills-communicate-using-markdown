@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # THIS IS A HEADING OF H1
 ## THIS IS A HEADING OG H2
 # NOW HERE IS AN IMAGE EMBEDDED INTO MARKDOWN
@@ -17,3 +18,6 @@ System.out.prinitln("Yes this is java and I am depressed!");
 - [x] I LEARN HOW TO ADD HEADING
 - [X] I LEARNT HOW TO ADD AN IMAGE
 - [ ] I LEARNT HOW TO PUT LISTS (LEARNING RN RE RUKO ZARA)
+=======
+
+>>>>>>> main
