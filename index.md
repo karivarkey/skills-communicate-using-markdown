@@ -13,3 +13,7 @@ console.log("I am writing a code snippet of JS");
 ```java
 System.out.prinitln("Yes this is java and I am depressed!");
 ```
+# THIS IS THE AREA WHERE I LEARNT HOW TO ADD A LIST
+- [x] I LEARN HOW TO ADD HEADING
+- [X] I LEARNT HOW TO ADD AN IMAGE
+- [ ] I LEARNT HOW TO PUT LISTS (LEARNING RN RE RUKO ZARA)
