@@ -14,6 +14,23 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
+<<<<<<< HEAD
+  <<< Author notes: Step 5 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+-->
+
+## Step 5: Merge your pull request
+
+_Great job adding a task list to the file :heart:_
+
+You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
+
+### :keyboard: Activity: Merge your pull request
+
+1. Click **Merge pull request**.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+=======
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
@@ -43,6 +60,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+>>>>>>> main
 
 <footer>
 
